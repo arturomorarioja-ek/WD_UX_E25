@@ -1,4 +1,4 @@
-<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/27c75f61-2aab-43f3-b2b7-87c0d1a86e66" />
+<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/27c75f61-2aab-43f3-b2b7-87c0d1a86e66" align="left" style="z-index: 999;" />
 
 # User Experience - Autumn 2025
 ## PBA Web Development
