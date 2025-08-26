@@ -5,7 +5,7 @@
 ## Software installation
 **Microsoft Visual Studio Code**
 
-You need an IDE (Integrated Development Environment). I will use Visual Studio Code, but feel free to choose another if you have specific preferences. If you decide to go ahead with VSCode, you can download it from [Microsoft Azure for Education](https://azureforeducation.microsoft.com/devtools). Log in with your KEA credentials.
+You need an IDE (Integrated Development Environment). I will use [Visual Studio Code](https://code.visualstudio.com/), but feel free to choose another if you have specific preferences.
 
 Recommended Visual Studio Code extensions:
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
