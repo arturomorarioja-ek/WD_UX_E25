@@ -24,3 +24,7 @@ Download and install [Git](https://git-scm.com/), the most popular SCM (Source C
 If you still do not have it, create an account on [GitHub](https://github.com/), the main code repository platform.
 
 If you just want to try some small code projects to illustrate specific CSS or JavaScript features, you can try a lightweight front-end platform like [CodePen](https://codepen.io/) or [jsFiddle](https://jsfiddle.net/).
+
+[https://github.com/arturomorarioja/web_e25_ux_food_repo_w35]: #
+[https://coolors.co/palette/582f0e-7f4f24-936639-a68a64-b6ad90-c2c5aa-a4ac86-656d4a-414833-333d29]: #
+[Font: Lexend Zetta]: #
