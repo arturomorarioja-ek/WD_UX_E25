@@ -30,7 +30,31 @@ If you just want to try some small code projects to illustrate specific CSS or J
 - Check out the **Introduction** slides
 - Make sure that you understand the tasks and tools involved in a backend and those in the frontend
 - [Explore](https://fullscale.io/blog/top-5-tech-stacks/) different development stacks
-  
-[https://github.com/arturomorarioja/web_e25_ux_food_repo_w35]: #
-[https://coolors.co/palette/582f0e-7f4f24-936639-a68a64-b6ad90-c2c5aa-a4ac86-656d4a-414833-333d29]: #
-[Font: Lexend Zetta]: #
+
+### HTML5
+Check out:
+- The slides on **HTML5**, with especial attention to semantic tagging and landmark elements
+- [The list of character entities](https://html.spec.whatwg.org/multipage/named-characters.html), with especial attention to commonly used characters (copyright sign, æ, ø, å)
+- [The practical value of semantic HTML](https://brucelawson.co.uk/2018/the-practical-value-of-semantic-html/), by Bruce Lawson
+- How to Section Your HTML, [Part 7: Article is like "Block"; Section is like "Element"](https://css-tricks.com/how-to-section-your-html/#article-is-like-block-section-is-like-element), by Daniel Tonon
+- W3C's [Markup Validation Service](https://validator.w3.org/). Run your HTML code here
+
+### CSS3
+- Always use [custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) (CSS variables), at least for colours and font lists
+- Use [nested CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting), since it now has wide browser support
+- [A deeper explanation](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) of the box-sizing property
+
+## Homework
+Go through all of the above. Practice it and delve deeper into it.
+
+### MDN Web Docs. Test your skills
+- [Form structure](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_structure)
+- [Basic controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Basic_controls)
+- [HTML5 controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_HTML5_controls)
+- [Other controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Other_controls)
+- [Form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_validation)
+
+[My proposed solution](https://codepen.io/collection/QWVQmY)
+
+### Food Repo
+Our class code sample: https://github.com/arturomorarioja/js_food_repo_ux_e25
