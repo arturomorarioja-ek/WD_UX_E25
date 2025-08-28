@@ -25,6 +25,11 @@ If you still do not have it, create an account on [GitHub](https://github.com/),
 
 If you just want to try some small code projects to illustrate specific CSS or JavaScript features, you can try a lightweight front-end platform like [CodePen](https://codepen.io/) or [jsFiddle](https://jsfiddle.net/).
 
+## Class takeaways
+### Basic Web Application Architecture
+- Make sure that you understand the tasks and tools involved in a backend and those in the frontend.
+- [Explore](https://fullscale.io/blog/top-5-tech-stacks/) different development stacks
+  
 [https://github.com/arturomorarioja/web_e25_ux_food_repo_w35]: #
 [https://coolors.co/palette/582f0e-7f4f24-936639-a68a64-b6ad90-c2c5aa-a4ac86-656d4a-414833-333d29]: #
 [Font: Lexend Zetta]: #
