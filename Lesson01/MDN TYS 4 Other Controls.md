@@ -66,3 +66,38 @@ To create the menu, update the HTML code in the editor below:
   </ul>
 </form>    
 ```
+
+# Other controls 3
+In our final task of this set, we start with much the same list of food choices. However, this time we want to do things differently:
+
+1. Create a basic text input that is semantically associated with the provided label.
+2. Put the food choices into a list that can be associated with a form input.
+3. Associate the list with your text input, so that when you type characters, any of the list options that match the character sequence are given in a dropdown list as autocomplete suggestions.
+
+To create the input, update the HTML code in the editor below:
+
+<img width="792" height="156" alt="image" src="https://github.com/user-attachments/assets/98bc571c-f2ee-4c95-97dc-4f8cc1e2bc50" />
+
+```html
+<form>
+  <ul>
+    <li>
+      <label for="food">Enter your favorite food:</label>
+
+
+          Salad
+          Curry
+          Pizza
+          Fajitas
+          Biscuits
+          Crisps
+          Fruit
+          Breadsticks
+
+    </li>
+    <li>
+      <button>Submit choice</button>
+    </li>
+  </ul>
+</form>    
+```
