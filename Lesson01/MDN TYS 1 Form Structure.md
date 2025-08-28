@@ -1,5 +1,5 @@
 ### MDN Test Your skills: Form structure
-Recovered from https://web.archive.org/web/20250302133736/https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills:_Form_structure.
+Recovered from the [Internet Archive's Wayback Machine](https://web.archive.org/web/20250302133736/https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills:_Form_structure).
 
 # Form structure 1
 In this task we want you to structure the provided form features:
