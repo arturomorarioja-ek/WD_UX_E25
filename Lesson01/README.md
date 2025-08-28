@@ -48,11 +48,11 @@ Check out:
 Go through all of the above. Practice it and delve deeper into it.
 
 ### MDN Web Docs. Test your skills
-- [Form structure](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_Form_structure)
-- [Basic native form controls](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_Basic_controls)
-- [HTML5 input types](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_The_HTML5_input_types)
-- [Other form controls](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_Other_form_controls)
-- [Form validation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_Client-side_form_validation)
+- [Form structure](https://github.com/arturomorarioja-ek/WD_UX_E25/blob/main/Lesson01/MDN%20TYS%201%20Form%20Structure.md)
+- [Basic native form controls](https://github.com/arturomorarioja-ek/WD_UX_E25/blob/main/Lesson01/MDN%20TYS%202%20Basic%20Controls.md)
+- [HTML5 input types](https://github.com/arturomorarioja-ek/WD_UX_E25/blob/main/Lesson01/MDN%20TYS%203%20HTML5%20Controls.md)
+- [Other form controls](https://github.com/arturomorarioja-ek/WD_UX_E25/blob/main/Lesson01/MDN%20TYS%204%20Other%20Controls.md)
+- [Form validation](https://github.com/arturomorarioja-ek/WD_UX_E25/blob/main/Lesson01/MDN%20TYS%205%20Form%20Validation.md)
 
 [My proposed solution](https://codepen.io/collection/QWVQmY)
 
