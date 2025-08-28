@@ -30,7 +30,7 @@ Try updating the live code below to recreate the finished example:
 </form>
 ```
 
-# Basic controls 3
+# Basic controls 2
 The next task requires you to create working sets of checkboxes and radio buttons, from the provided text labels.
 
 1. Turn the first `<fieldset>`'s contents into a set of radio buttons — you should only be able to select one pony character at once.
