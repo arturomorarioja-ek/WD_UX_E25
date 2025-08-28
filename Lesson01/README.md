@@ -50,7 +50,7 @@ Go through all of the above. Practice it and delve deeper into it.
 ### MDN Web Docs. Test your skills
 - [Form structure](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_Form_structure)
 - [Basic native form controls](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_Basic_controls)
-- [HTML5 input types](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_ The_HTML5_input_types)
+- [HTML5 input types](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_The_HTML5_input_types)
 - [Other form controls](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_Other_form_controls)
 - [Form validation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills%3A_Client-side_form_validation)
 
