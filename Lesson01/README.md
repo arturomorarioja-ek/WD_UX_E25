@@ -27,7 +27,8 @@ If you just want to try some small code projects to illustrate specific CSS or J
 
 ## Class takeaways
 ### Basic Web Application Architecture
-- Make sure that you understand the tasks and tools involved in a backend and those in the frontend.
+- Check out the **Introduction** slides
+- Make sure that you understand the tasks and tools involved in a backend and those in the frontend
 - [Explore](https://fullscale.io/blog/top-5-tech-stacks/) different development stacks
   
 [https://github.com/arturomorarioja/web_e25_ux_food_repo_w35]: #
