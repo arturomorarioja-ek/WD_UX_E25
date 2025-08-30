@@ -51,6 +51,7 @@ Try updating the live code below to recreate the finished example:
 
 <img width="796" height="128" alt="image" src="https://github.com/user-attachments/assets/9633787e-6364-4117-9a0a-55d4040849e0" />
 
+HTML code:
 ```html
 <form>
   <ul>
@@ -65,6 +66,7 @@ Try updating the live code below to recreate the finished example:
 </form>
 ```
 
+JavaScript code:
 ```javascript
 const invite = document.querySelector('#max-invite');
 const output = document.querySelector('.invite-output');
@@ -74,4 +76,9 @@ output.textContent = invite.value;
 invite.addEventListener('input', function() {
   output.textContent = invite.value;
 });
+```
+
+If you are creating the project in a standalone repo (not in CodePen or similar), you need to include the JavaScript code in a file `js/script.js` and link it by including the following line in your HTML file:
+```html
+<script src="js/script.js" type="module"></script>
 ```
