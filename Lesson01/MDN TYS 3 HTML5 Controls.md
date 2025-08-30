@@ -78,7 +78,7 @@ invite.addEventListener('input', function() {
 });
 ```
 
-If you are creating the project in a standalone repo (not in CodePen or similar), you need to include the JavaScript code in a file `js/script.js` and link it by including the following line in your HTML file:
+If you are creating the project in a standalone repo (not in CodePen or similar), you need to include the JavaScript code in a file `js/script.js` and link it by including the following line in the `<head>` of your HTML file:
 ```html
 <script src="js/script.js" type="module"></script>
 ```
