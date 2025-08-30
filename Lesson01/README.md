@@ -47,7 +47,7 @@ Check out:
 ## Homework
 Go through all of the above. Practice it and delve deeper into it.
 
-### MDN Web Docs. Test your skills
+### From the old MDN Web Docs - Test your skills
 - [Form structure](https://github.com/arturomorarioja-ek/WD_UX_E25/blob/main/Lesson01/MDN%20TYS%201%20Form%20Structure.md)
 - [Basic native form controls](https://github.com/arturomorarioja-ek/WD_UX_E25/blob/main/Lesson01/MDN%20TYS%202%20Basic%20Controls.md)
 - [HTML5 input types](https://github.com/arturomorarioja-ek/WD_UX_E25/blob/main/Lesson01/MDN%20TYS%203%20HTML5%20Controls.md)
