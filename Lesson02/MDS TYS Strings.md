@@ -9,5 +9,40 @@ In our first strings task, we start off small. You already have half of a famous
 
 You'll find that you get an error at this point. Can you fix the problem with `quoteStart`, so that the full quote displays correctly?
 
-Try updating the live code below to recreate the finished example:
+Try updating the JavaScript code below to recreate the finished example:
 
+<img width="631" height="42" alt="Untitled" src="https://github.com/user-attachments/assets/230f5bab-0aa7-4ef1-bdac-cf78018d1dbf" />
+
+HTML code:
+```html
+<section class="preview">
+</section>
+```
+
+CSS code:
+```css
+p {
+  color: purple;
+  margin: 0.5em 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+```
+
+JavaScript code:
+```javascript
+
+// Add your code here
+
+const quoteStart = 'Don't judge each day by the harvest you reap ';
+
+// Don't edit the code below here!
+
+section.innerHTML = ' ';
+const para1 = document.createElement('p');
+para1.textContent = finalQuote;
+
+section.appendChild(para1);
+```
