@@ -15,3 +15,10 @@ Go through all of the above. Practice it and delve deeper into it.
 - [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Loops)
 - [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions)
 - [Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object_basics)
+
+### Tax Calculator
+Create a tax calculator app using HTML, CSS and JavaScript.
+- It should add the tax percentage to the monetary amount
+- Both input textboxes must allow numeric values with up to two decimal positions
+
+![image](https://github.com/user-attachments/assets/868446da-1e19-4518-bbe3-c51f24ec221e)
