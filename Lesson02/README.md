@@ -22,3 +22,10 @@ Create a tax calculator app using HTML, CSS and JavaScript.
 - Both input textboxes must allow numeric values with up to two decimal positions
 
 ![image](https://github.com/user-attachments/assets/868446da-1e19-4518-bbe3-c51f24ec221e)
+
+### Temperature Converter
+Create a temperature converter app using HTML, CSS and JavaScript.
+- It should convert between Celsius, Fahrenheit and Kelvin degrees
+- The input textbox should allow for two decimal positions
+
+![image](https://github.com/user-attachments/assets/6443eb83-0b73-4ff9-b9f1-87ec5fee03c9)
