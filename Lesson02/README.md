@@ -2,6 +2,30 @@
 
 # Lesson 2 - 4 September
 
+## Class takeaways
+
+### HTML5
+Check out:
+- Code sample: [HTML Form](https://codepen.io/arturomorarioja/pen/poQeRNL)
+
+[### CSS3]: #
+[Check out:]: #
+[- The slide deck **CSS3**, with especial attention to the slide on fonts]: #
+[- [Why you should avoid pixel units](https://medium.com/front-end-101/css-why-should-you-not-use-px-for-font-size-fdf781ceb0b0)]: #
+[- Code sample: [CSS font load](https://github.com/arturomorarioja/css3_external_font_load)]: #
+
+### JavaScript
+Check out:
+- The slide deck **Introduction to JavaScript**, with especial attention to:
+  - JavaScript variables (let and const)
+  - JavaScript variables in strings (template literals in backticks)
+  - Calling JavaScript from HTML and JavaScript file load. Remember to always use async or defer or, even better, JavaScript modules
+- The slide deck **JavaScript - The DOM**, with especial attention to:
+  - Getting DOM elements and attributes
+  - DOM events and event management
+  - Form validation
+- Code sample: [JavaScript File Loading](https://github.com/arturomorarioja/js_file_load)
+
 ## Homework
 Go through all of the above. Practice it and delve deeper into it.
 
@@ -29,3 +53,11 @@ Create a temperature converter app using HTML, CSS and JavaScript.
 - The input textbox should allow for two decimal positions
 
 ![image](https://github.com/user-attachments/assets/6443eb83-0b73-4ff9-b9f1-87ec5fee03c9)
+
+### [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
+Start working on the *CSS Restaurant*. Take the following into account:
+- Only HTML5 and CSS3 are allowed. No frameworks or libraries
+- We still have not covered everything you need to do the full assignment, so start it but do not strive to finishing it yet
+- If you engage in responsiveness:
+  - Use a mobile first approach
+  - You can use flexbox and/or grid, but none of them are strictly necessary
