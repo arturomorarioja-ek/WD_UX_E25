@@ -4,8 +4,8 @@
 ## PBA Web Development
 
 ### Food Repo
-[Throughout the course we will build a front-end sample about recipes: Food Repo(https://github.com/arturomorarioja/). ]: #
-[Make sure to `git clone` it once and `git pull` the latest version every week.]: #
+Throughout the course we will build a front-end sample about recipes: [Food Repo](https://github.com/arturomorarioja/js_food_repo_ux_e25).
+Make sure to `git clone` it once and `git pull` the latest version every week.
 
 ### Lessons
 
