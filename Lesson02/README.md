@@ -11,8 +11,8 @@ Check out:
 [### CSS3]: #
 [Check out:]: #
 [- The slide deck **CSS3**, with especial attention to the slide on fonts]: #
-[- [Why you should avoid pixel units](https://medium.com/front-end-101/css-why-should-you-not-use-px-for-font-size-fdf781ceb0b0)]: #
-[- Code sample: [CSS font load](https://github.com/arturomorarioja/css3_external_font_load)]: #
+[- Why you should avoid pixel units(https://medium.com/front-end-101/css-why-should-you-not-use-px-for-font-size-fdf781ceb0b0)]: #
+[- Code sample: CSS font load(https://github.com/arturomorarioja/css3_external_font_load)]: #
 
 ### JavaScript
 Check out:
