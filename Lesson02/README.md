@@ -52,7 +52,7 @@ Create a temperature converter app using HTML, CSS and JavaScript.
 - It should convert between Celsius, Fahrenheit and Kelvin degrees
 - The input textbox should allow for two decimal positions
 
-![image](https://github.com/user-attachments/assets/6443eb83-0b73-4ff9-b9f1-87ec5fee03c9)
+<img width="325" height="408" alt="image" src="https://github.com/user-attachments/assets/43615c8d-12f6-46f6-9ab8-bde5fe3788bd" />
 
 ### [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
 Start working on the *CSS Restaurant*. Take the following into account:
