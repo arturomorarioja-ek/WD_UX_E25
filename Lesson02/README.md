@@ -45,7 +45,7 @@ Create a tax calculator app using HTML, CSS and JavaScript.
 - It should add the tax percentage to the monetary amount
 - Both input textboxes must allow numeric values with up to two decimal positions
 
-![image](https://github.com/user-attachments/assets/868446da-1e19-4518-bbe3-c51f24ec221e)
+<img width="326" height="378" alt="image" src="https://github.com/user-attachments/assets/f5600221-75c5-48e6-be9f-b35da0c939e8" />
 
 ### Temperature Converter
 Create a temperature converter app using HTML, CSS and JavaScript.
