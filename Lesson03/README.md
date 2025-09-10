@@ -8,6 +8,7 @@
 
 [-> Download JavaScript API Consumption slides]: #
 [-> clone https://github.com/arturomorarioja/web_e25_ux_food_repo_w37]: #
+[-> clone https://github.com/arturomorarioja/js_project_gutenberg]: #
 
 [-> slides JavaScript API Consumption -> be patient!]: #
 [  -> code samples: https://codepen.io/arturomorarioja/pen/JjwPPbX, js_basic_fetch + js_api_consumption_methods + js_api_consumption]: #
