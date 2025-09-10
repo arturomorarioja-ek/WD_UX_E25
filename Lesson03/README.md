@@ -10,6 +10,7 @@
 
 [-> slides JavaScript API Consumption -> be patient!]: #
 [  -> code samples: https://codepen.io/arturomorarioja/pen/JjwPPbX, js_basic_fetch + js_api_consumption_methods + js_api_consumption]: #
+[  -> discuss API keys]: #
 [  -> Consume The Meal API]: #
 [  -> In-class exercise: Project Gutenberg]: #
 
