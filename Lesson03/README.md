@@ -10,6 +10,6 @@
 [  -> auto margins + contact flex + <a> styling]: #
 
 [-> slides JavaScript API Consumption -> be patient!]: #
-[  -> code samples: js_basic_fetch + js_api_consumption_methods + js_api_consumption]: #
+[  -> code samples: https://codepen.io/arturomorarioja/pen/JjwPPbX, js_basic_fetch + js_api_consumption_methods + js_api_consumption]: #
 [  -> Consume The Meal API]: #
 [  -> In-class exercise: Project Gutenberg]: #
