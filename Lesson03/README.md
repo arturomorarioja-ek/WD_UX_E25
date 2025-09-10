@@ -6,3 +6,6 @@
 [- Tax calculator(https://github.com/arturomorarioja/kea_js_tax_calculator_solution)]: #
 [- Temperature converter(https://github.com/arturomorarioja/kea_js_temperature_converter_solution)]: #
 
+[-> slides Responsive Web Design: breakpoints, media queries, mobile first]: #
+[  -> auto margins + contact flex + <a> styling]: #
+
