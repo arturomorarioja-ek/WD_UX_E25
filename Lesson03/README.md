@@ -6,10 +6,12 @@
 [- Tax calculator(https://github.com/arturomorarioja/kea_js_tax_calculator_solution)]: #
 [- Temperature converter(https://github.com/arturomorarioja/kea_js_temperature_converter_solution)]: #
 
-[-> slides Responsive Web Design: breakpoints, media queries, mobile first]: #
-[  -> auto margins + contact flex + <a> styling]: #
-
 [-> slides JavaScript API Consumption -> be patient!]: #
 [  -> code samples: https://codepen.io/arturomorarioja/pen/JjwPPbX, js_basic_fetch + js_api_consumption_methods + js_api_consumption]: #
 [  -> Consume The Meal API]: #
 [  -> In-class exercise: Project Gutenberg]: #
+
+[-> WHEN THEY GET TIRED]: #
+[-> slides Responsive Web Design: breakpoints, media queries, mobile first]: #
+[  -> auto margins + contact flex + <a> styling]: #
+
