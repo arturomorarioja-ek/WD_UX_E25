@@ -6,6 +6,8 @@
 [- Tax calculator(https://github.com/arturomorarioja/kea_js_tax_calculator_solution)]: #
 [- Temperature converter(https://github.com/arturomorarioja/kea_js_temperature_converter_solution)]: #
 
+[-> Download JavaScript API Consumption slides]: #
+
 [-> slides JavaScript API Consumption -> be patient!]: #
 [  -> code samples: https://codepen.io/arturomorarioja/pen/JjwPPbX, js_basic_fetch + js_api_consumption_methods + js_api_consumption]: #
 [  -> Consume The Meal API]: #
