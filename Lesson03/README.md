@@ -25,3 +25,13 @@ Check out the following slides:
 
 Check out the following code samples:
 - [JS Promise vs. Async/Await](https://codepen.io/arturomorarioja/pen/JjwPPbX)
+- [Basic fetch](https://github.com/arturomorarioja/js_basic_fetch)
+
+Solve the following exercises:
+
+### Temperature Converter
+Create a temperature converter app using HTML, CSS and JavaScript.
+- It should convert between Celsius, Fahrenheit and Kelvin degrees
+- The input textbox should allow for two decimal positions
+
+<img width="325" height="408" alt="image" src="https://github.com/user-attachments/assets/42c021e9-5ac5-404e-9cad-ee681f7cf18d" />
