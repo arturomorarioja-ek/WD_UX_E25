@@ -2,13 +2,10 @@
 
 # Lesson 3 - 11 September
 
-[## Homework exercise solutions]: #
-[- Tax calculator(https://github.com/arturomorarioja/kea_js_tax_calculator_solution)]: #
-[- Temperature converter(https://github.com/arturomorarioja/kea_js_temperature_converter_solution)]: #
+## Homework exercise solutions
+- [Tax calculator](https://github.com/arturomorarioja/kea_js_tax_calculator_solution)
 
-[-> Download JavaScript API Consumption slides]: #
-[-> clone https://github.com/arturomorarioja/web_e25_ux_food_repo_w37]: #
-[-> clone https://github.com/arturomorarioja/js_project_gutenberg]: #
+[- Temperature converter(https://github.com/arturomorarioja/kea_js_temperature_converter_solution)]: #
 
 [-> slides JavaScript API Consumption -> be patient!]: #
 [  -> code samples: https://codepen.io/arturomorarioja/pen/JjwPPbX, js_basic_fetch + js_api_consumption_methods + js_api_consumption]: #
