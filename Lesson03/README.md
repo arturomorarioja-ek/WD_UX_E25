@@ -17,3 +17,8 @@
 [-> slides Responsive Web Design: breakpoints, media queries, mobile first]: #
 [  -> auto margins + contact flex + <a> styling]: #
 
+## Homework
+Check out the following slides:
+- **JavaScript: API Consumption**, with a special focus on `async/await` and `fetch()`
+Check out the following code samples:
+- [JS Promise vs. Async/Await](https://codepen.io/arturomorarioja/pen/JjwPPbX)
