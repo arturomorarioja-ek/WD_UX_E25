@@ -35,3 +35,6 @@ Create a temperature converter app using HTML, CSS and JavaScript.
 - The input textbox should allow for two decimal positions
 
 <img width="325" height="408" alt="image" src="https://github.com/user-attachments/assets/42c021e9-5ac5-404e-9cad-ee681f7cf18d" />
+
+### [First Mandatory Assignment](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344451)
+- Do the [*Music CDs* exercise](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=1344535). If you decide to submit, specify whether you want individual feedback
