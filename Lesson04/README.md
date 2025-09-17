@@ -8,9 +8,15 @@
 [-> git pull https://github.com/arturomorarioja/js_append_strategies, https://github.com/arturomorarioja/js_append_strategies_v2]: #
 
 [-> Append strategies]: #
+[  -> show also document fragment: https://codepen.io/arturomorarioja/pen/QwLaVMj]: #
+
 [-> In-class exercise: Project Gutenberg]: #
 
-[-> WHEN THEY GET TIRED]: #
+[-> Navigation and wayfinding + in-class exercise]: #
+
+[-> Food repo. Iterate + responsive]: #
 [-> slides Responsive Web Design: breakpoints, media queries, mobile first]: #
 [  -> auto margins + contact flex + <a> styling]: #
 
+[## Homework]: #
+[1MA: TMDB]: #
