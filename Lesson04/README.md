@@ -5,7 +5,7 @@
 ## Homework exercise solutions
 - [Temperature converter](https://github.com/arturomorarioja/kea_js_temperature_converter_solution)
 
-[-> git pull https://github.com/arturomorarioja/js_append_strategies]: #
+[-> git pull https://github.com/arturomorarioja/js_append_strategies, https://github.com/arturomorarioja/js_append_strategies_v2]: #
 
 [-> Append strategies]: #
 [-> In-class exercise: Project Gutenberg]: #
