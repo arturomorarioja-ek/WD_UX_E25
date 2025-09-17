@@ -6,6 +6,7 @@
 - [Temperature converter](https://github.com/arturomorarioja/kea_js_temperature_converter_solution)
 
 [-> git pull https://github.com/arturomorarioja/js_append_strategies, https://github.com/arturomorarioja/js_append_strategies_v2]: #
+[-> I forgot to git push the food repo!]: #
 
 [-> Append strategies]: #
 [  -> show also document fragment: https://codepen.io/arturomorarioja/pen/QwLaVMj]: #
