@@ -8,3 +8,4 @@
 
 [## Homework]: #
 [1MA: TMDB]: #
+[1MA: Make restaurant and CDs mandatory for next week]: #
