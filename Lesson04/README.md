@@ -43,11 +43,3 @@ Create an application that consumes the `books` endpoint of [Gutendex](https://g
 
 
 <img width="998" height="664" alt="image" src="https://github.com/user-attachments/assets/77c02f3a-1c10-4b84-83c6-66e1a7ad2535" />
-
-
-[-> Food repo. Iterate + responsive]: #
-[-> slides Responsive Web Design: breakpoints, media queries, mobile first]: #
-[  -> auto margins + contact flex + <a> styling]: #
-
-[## Homework]: #
-[1MA: TMDB]: #
