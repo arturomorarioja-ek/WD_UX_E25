@@ -5,8 +5,18 @@
 ## Homework exercise solutions
 - [Temperature converter](https://github.com/arturomorarioja/kea_js_temperature_converter_solution)
 
-[-> info about switch case]: #
+## In-class exercise
 
+### Navigation and Wayfinding
+- Do the following exercise in groups of 4 students:
+  - Find at least one website example of each one of the following wayfinding resources:
+    - Breadcrumbs
+    - URL structures
+    - Calls to action
+    - Consistency in the use of landmarks
+    - Mega menus
+  - Show your findings to the class
+    
 ## Class takeaways
 ### JavaScript
 Check out:
@@ -18,8 +28,6 @@ Check out:
   - [Document fragment](https://codepen.io/arturomorarioja/pen/QwLaVMj)
 
 [-> In-class exercise: Project Gutenberg]: #
-
-[-> Navigation and wayfinding + in-class exercise]: #
 
 [-> Food repo. Iterate + responsive]: #
 [-> slides Responsive Web Design: breakpoints, media queries, mobile first]: #
