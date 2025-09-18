@@ -11,7 +11,7 @@
 ### JavaScript
 Check out:
 - The slide deck **JavaScript - The DOM**, with especial attention to element creation
-- The slide deck **JavaScript - API Consumption**, with especial attention to JSON and Fetch
+- [The `switch` statement](https://www.w3schools.com/js/js_switch.asp) (known in some programming languages as `case`)
 - Code samples:
   - [Append strategies](https://github.com/arturomorarioja/js_append_strategies)
   - [Append strategies 2](https://github.com/arturomorarioja/js_append_strategies_v2)
