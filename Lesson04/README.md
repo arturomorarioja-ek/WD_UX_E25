@@ -5,11 +5,17 @@
 ## Homework exercise solutions
 - [Temperature converter](https://github.com/arturomorarioja/kea_js_temperature_converter_solution)
 
-[-> git pull https://github.com/arturomorarioja/js_append_strategies, https://github.com/arturomorarioja/js_append_strategies_v2]: #
-[-> I forgot to git push the food repo!]: #
+[-> info about switch case]: #
 
-[-> Append strategies]: #
-[  -> show also document fragment: https://codepen.io/arturomorarioja/pen/QwLaVMj]: #
+## Class takeaways
+### JavaScript
+Check out:
+- The slide deck **JavaScript - The DOM**, with especial attention to element creation
+- The slide deck **JavaScript - API Consumption**, with especial attention to JSON and Fetch
+- Code samples:
+  - [Append strategies](https://github.com/arturomorarioja/js_append_strategies)
+  - [Append strategies 2](https://github.com/arturomorarioja/js_append_strategies_v2)
+  - [Document fragment](https://codepen.io/arturomorarioja/pen/QwLaVMj)
 
 [-> In-class exercise: Project Gutenberg]: #
 
