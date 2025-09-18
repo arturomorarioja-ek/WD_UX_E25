@@ -39,9 +39,11 @@ Check out:
 ### Project Gutenberg - API consumption
 Create an application that consumes the `books` endpoint of [Gutendex](https://gutendex.com/) (the Project Gutenberg API) and displays a series of book cards including book title, authors (notice that there can be more than one), cover image, description (there can be more than one, but just use the first one; notice that there can be no description, so account for it), and a link to the HTML version of the book in the Project Gutenberg page.
 
-![image](https://github.com/user-attachments/assets/b4f998ca-b38f-4b34-8834-408653ce2729)
+<img width="320" height="670" alt="image" src="https://github.com/user-attachments/assets/381396a0-fd38-4d37-8d13-e0db031ca818" />
 
-![image](https://github.com/user-attachments/assets/8f07ebae-4446-4482-b4ae-dd62c8a4caff)
+
+<img width="998" height="664" alt="image" src="https://github.com/user-attachments/assets/77c02f3a-1c10-4b84-83c6-66e1a7ad2535" />
+
 
 [-> Food repo. Iterate + responsive]: #
 [-> slides Responsive Web Design: breakpoints, media queries, mobile first]: #
