@@ -8,7 +8,7 @@
 ## In-class exercise
 
 ### Navigation and Wayfinding
-- Do the following exercise in groups of 4 students:
+- Do the following exercise in groups of 5 students:
   - Find at least one website example of each one of the following wayfinding resources:
     - Breadcrumbs
     - URL structures
