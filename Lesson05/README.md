@@ -2,9 +2,14 @@
 
 # Lesson 5 - 25 September
 
+[-> Show solution to Gutenberg]: #
+
 [-> Food repo. Iterate + responsive]: #
 [-> slides Responsive Web Design: breakpoints, media queries, mobile first]: #
 [  -> auto margins + contact flex + <a> styling]: #
+
+[-> Colors & Typography]: #
+[  -> in-class exercise]: #
 
 [## Homework]: #
 [1MA: Make restaurant and CDs mandatory for next week]: #
