@@ -2,6 +2,8 @@
 
 # Lesson 5 - 25 September
 
+[-> git clone https://github.com/arturomorarioja/web_e25_ux_food_repo_w39]: #
+
 [-> Gutenberg solution]: #
 
 [-> Responsiveness slides (not grid yet)]: #
