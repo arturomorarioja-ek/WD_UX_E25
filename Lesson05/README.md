@@ -2,11 +2,6 @@
 
 # Lesson 5 - 25 September
 
-[-> css-in-js null coalescence ? - image formats]: #
-
-[-> Food repo. Iterate + responsive]: #
-[  -> auto margins + contact flex + <a> styling]: #
-
 ## Homework exercise solution
 [Project Gutenberg](https://github.com/arturomorarioja/js_project_gutenberg)
 
@@ -18,12 +13,16 @@ Check out the following slide decks on Itslearning:
   - CSS3 Media Queries
   - Mobile First Design
   - Flexbox
+- **Performance and Sustainability**: slides 5, 6 and 7 (images and typography)
+- **JavaScript: The DOM**: slide 9 (CSS-in-JS)
 
 Bookmark CSS-Tricks' [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). It is a great aid for working with Flexbox.
- 
+
 Check out the following code samples:
 - [Responsive font and image](https://codepen.io/arturomorarioja/pen/MWzpJjG)
 - [Flexbox](https://github.com/arturomorarioja/css_flexbox)
+
+Read [this article](https://www.freecodecamp.org/news/how-the-question-mark-works-in-javascript/) on the optional chaining (`?`) and null coalescing operator (`??`) in JavaScript.
 
 ### Colour palettes
 Work in groups of 4. Find websites that use the following colour palettes (at least one website per palette):
