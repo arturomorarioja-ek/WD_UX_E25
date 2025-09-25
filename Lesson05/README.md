@@ -2,9 +2,7 @@
 
 # Lesson 5 - 25 September
 
-[-> git clone https://github.com/arturomorarioja/web_e25_ux_food_repo_w39]: #
-
-[-> Gutenberg solution]: #
+[-> css-in-js null coalescence ?]: #
 
 [-> Responsiveness slides (not grid yet)]: #
 [  -> Responsive font and image sample]: #
@@ -16,8 +14,8 @@
 [-> Colors & Typography]: #
 [  -> in-class exercise]: #
 
-[## Homework exercise solution]: #
-[Project Gutenberg(https://github.com/arturomorarioja/js_project_gutenberg)]: #
+## Homework exercise solution
+[Project Gutenberg](https://github.com/arturomorarioja/js_project_gutenberg)
 
 [## In-class exercise]: #
 
