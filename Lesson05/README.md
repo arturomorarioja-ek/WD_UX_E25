@@ -12,9 +12,7 @@
 
 ## Homework
 Check out the following slide decks on Itslearning:
-
-[- **Visual Design: Colours and Typography**]: #
-
+- **Visual Design: Colours and Typography**
 - **Responsive Web Design**, with especial attention to:
   - Responsive Web Design Recommendations
   - CSS3 Media Queries
@@ -37,13 +35,13 @@ Work in groups of 4. Find websites that use the following colour palettes (at le
 
 Show your findings to the class.
 
-[### First Mandatory Assignment]: #
-[- Next week I will give you the solutions to the *CSS Restaurant* and the *Music CDs* assignments. If you finish them by then, you will be able to compare your solutions to mine]: #
-[- Start working on the *API consumption* exercise. Take the following into account:]: #
-[  - You need to sign up to TMDB(https://www.themoviedb.org/signup) (The Movie DataBase) in order to get an API key]: #
-[  - Find the endpoints you need in TMDB's API Reference(https://developer.themoviedb.org/reference/intro/getting-started):]: #
+### First Mandatory Assignment]: #
+- Next week I will give you the solutions to the *CSS Restaurant* and the *Music CDs* assignments. If you finish them by then, you will be able to compare your solutions to mine
+- Start working on the *API consumption* exercise. Take the following into account:
+  - You need to sign up to TMDB(https://www.themoviedb.org/signup) (The Movie DataBase) in order to get an API key
+  - Find the endpoints you need in [TMDB's API Reference](https://developer.themoviedb.org/reference/intro/getting-started):
 
-[<img width="324" height="187" alt="image" src="https://github.com/user-attachments/assets/9282a963-2f1e-481b-84fe-a6642e1c9efe" />]: #
+<img width="324" height="187" alt="image" src="https://github.com/user-attachments/assets/9282a963-2f1e-481b-84fe-a6642e1c9efe" />
 
-[  - Before implementing the corresponding `fetch()` requests, read each endpoint's documentation in the central and right side of the page]: #
-[  - Try to optimize your code so that you do not need to make four independent `fetch()` requests]: #
+  - Before implementing the corresponding `fetch()` requests, read each endpoint's documentation in the central and right side of the page
+  - Try to optimize your code so that you do not need to make four independent `fetch()` requests
