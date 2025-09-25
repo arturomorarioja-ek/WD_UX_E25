@@ -4,30 +4,11 @@
 
 [-> css-in-js null coalescence ? - image formats]: #
 
-[-> Responsiveness slides (not grid yet)]: #
-[  -> Responsive font and image sample]: #
-[  -> Flexbox sample]: #
-
 [-> Food repo. Iterate + responsive]: #
 [  -> auto margins + contact flex + <a> styling]: #
 
-[-> Colors & Typography]: #
-[  -> in-class exercise]: #
-
 ## Homework exercise solution
 [Project Gutenberg](https://github.com/arturomorarioja/js_project_gutenberg)
-
-[## In-class exercise]: #
-
-[### Colour palettes]: #
-[Work in groups of 4. Find websites that use the following colour palettes (at least one website per palette):]: #
-[- Monochromatic]: #
-[- Complementary]: #
-[- Analogous]: #
-[- Triadic]: #
-[- Tetradic]: #
-
-[Show your findings to the class.]: #
 
 ## Homework
 Check out the following slide decks on Itslearning:
@@ -45,6 +26,16 @@ Bookmark CSS-Tricks' [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/
 Check out the following code samples:
 - [Responsive font and image](https://codepen.io/arturomorarioja/pen/MWzpJjG)
 - [Flexbox](https://github.com/arturomorarioja/css_flexbox)
+
+### Colour palettes
+Work in groups of 4. Find websites that use the following colour palettes (at least one website per palette):
+- Monochromatic
+- Complementary
+- Analogous
+- Triadic
+- Tetradic
+
+Show your findings to the class.
 
 [### First Mandatory Assignment]: #
 [- Next week I will give you the solutions to the *CSS Restaurant* and the *Music CDs* assignments. If you finish them by then, you will be able to compare your solutions to mine]: #
