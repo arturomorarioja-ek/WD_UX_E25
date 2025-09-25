@@ -29,14 +29,16 @@
 
 [Show your findings to the class.]: #
 
-[## Homework]: #
-[Check out the following slide decks on Itslearning:]: #
+## Homework
+Check out the following slide decks on Itslearning:
+
 [- **Visual Design: Colours and Typography**]: #
-[- **Responsive Web Design**, with especial attention to:]: #
-[- Responsive Web Design Recommendations]: #
-[- CSS3 Media Queries]: #
-[- Mobile First Design]: #
-[- Flexbox]: #
+
+- **Responsive Web Design**, with especial attention to:
+- Responsive Web Design Recommendations
+- CSS3 Media Queries
+- Mobile First Design
+- Flexbox
 
 [Bookmark CSS-Tricks' CSS Flexbox Layout Guide(https://css-tricks.com/snippets/css/a-guide-to-flexbox/). It is a great aid for working with Flexbox.]: #
  
