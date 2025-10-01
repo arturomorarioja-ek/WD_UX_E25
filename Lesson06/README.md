@@ -9,14 +9,14 @@
 [  -> In-class exercise: Foucault]: #
 [  -> Show responsive practice resources (froggy...)]: #
 
+[-> SPA Restaurant demo]: #
+
 [-> White space]: #
 [  -> In-class exercise]: #
 
-[-> If time allows: SPA Restaurant]: #
-
-[-> Further JS: SPAs, JS frameworks]: #
+[-> Further JS: JS frameworks]: #
 [-> Further JS: sessionStorage + localStorage]: #
-[-> In-class exercises: SPA restaurant + Stored music CDs]: #
+[-> In-class exercises: Stored music CDs]: #
 
 [## First Mandatory Assignment exercise solutions]: #
 [- Restaurant(https://github.com/arturomorarioja/kea_css_restaurant_solution)]: #
@@ -50,6 +50,7 @@
 [- **Information Architecture: White Space**]: #
 [- **Responsive Web Design**, with attention to Grid]: #
 [  - I recommend bookmarking CSS-tricks.com's guide on Grid(https://css-tricks.com/snippets/css/complete-guide-grid/)]: #
+[- **JavaScript: Further Features**, specifically slide 8 (SPA - Single Page Application)]: #
 [Check out the following code samples]: #
 [- CSS Grid with template columns(https://codepen.io/arturomorarioja/pen/wvRmrjj)]: #
 [- CSS Grid with template areas(https://codepen.io/arturomorarioja/pen/LYXyVXJ)]: #
