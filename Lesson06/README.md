@@ -54,6 +54,7 @@
 [Check out the following code samples]: #
 [- CSS Grid with template columns(https://codepen.io/arturomorarioja/pen/wvRmrjj)]: #
 [- CSS Grid with template areas(https://codepen.io/arturomorarioja/pen/LYXyVXJ)]: #
+[- SPA Restaurant(https://github.com/arturomorarioja/css_restaurant_spa)]: #
 
 [Practice responsiveness with CSS:]: #
 [-> Copy-paste from F25 lesson 6]: #
