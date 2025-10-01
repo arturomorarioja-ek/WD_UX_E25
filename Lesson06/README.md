@@ -3,10 +3,59 @@
 # Lesson 6 - 2 October
 
 [-> Show solutions CSS Restaurant + Music CDs]: #
+[  -> Feedback (see below)]: #
+
+[-> Responsiveness: Grid]: #
+[  -> In-class exercise: Foucault]: #
+[  -> Show responsive practice resources (froggy...)]: #
+
+[-> White space]: #
+[  -> In-class exercise]: #
+
+[-> If time allows: SPA Restaurant]: #
+
 [-> Further JS: SPAs, JS frameworks]: #
 [-> Further JS: sessionStorage + localStorage]: #
 [-> In-class exercises: SPA restaurant + Stored music CDs]: #
-[-> Responsiveness: Grid]: #
-[-> White space]: #
 
-[-> Prescribe Tristan]: #
+[## First Mandatory Assignment exercise solutions]: #
+[- Restaurant(https://github.com/arturomorarioja/kea_css_restaurant_solution)]: #
+[- Music CDs(https://github.com/arturomorarioja/kea_js_music_cds_solution)]: #
+
+[General feedback. Things to improve]: #
+[- Code should be divided into folders. As projects tend to grow, file organisation can soon become unmanageable]: #
+[- Avoid absolute paths, as it limits the deployability of your project. Do never start a URL path with `/`]: #
+[- CSS custom properties (variables) must be used for all colours and fonts, and they must be used consistently: just one hardcoded colour can cause grave problems regarding code maintainability]: #
+[- CSS custom properties must also be used for fixed pixel dimensions]: #
+
+[## In-class exercises]: #
+
+[### CSS Grid]: #
+[Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initial using grid and flexbox so that Michel Foucault’s bio page looks like this:]: #
+
+[<img width="1024" height="599" alt="image" src="https://github.com/user-attachments/assets/a00e4ffe-bf34-461e-8062-4147948a35a0" />]: #
+
+[Proposed solution(https://github.com/arturomorarioja/kea_grid_practice)]: #
+
+[### White space]: #
+[Work in groups of 4. Assess how white space has been used in the following websites, explain which methods have been used to remove visual clutter, and propose actions to remove it in the most cluttered websites:]: #
+[- https://www.thomann.de/gb/index.html]: #
+[- https://www.zalando.dk/]: #
+[- https://www.momondo.dk/]: #
+
+[Show your findings to the class.]: #
+
+[## Homework]: #
+[Check out the following slide decks on Itslearning]: #
+[- **Information Architecture: White Space**]: #
+[- **Responsive Web Design**, with attention to Grid]: #
+[  - I recommend bookmarking CSS-tricks.com's guide on Grid(https://css-tricks.com/snippets/css/complete-guide-grid/)]: #
+[Check out the following code samples]: #
+[- CSS Grid with template columns(https://codepen.io/arturomorarioja/pen/wvRmrjj)]: #
+[- CSS Grid with template areas(https://codepen.io/arturomorarioja/pen/LYXyVXJ)]: #
+
+[Practice responsiveness with CSS:]: #
+[-> Copy-paste from F25 lesson 6]: #
+
+[### First Mandatory Assignment]: #
+[Start working on the Tristan Wede Lind responsive SPA application]: #
