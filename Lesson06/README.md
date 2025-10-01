@@ -28,6 +28,7 @@
 [- CSS custom properties (variables) must be used for all colours and fonts, and they must be used consistently: just one hardcoded colour can cause grave problems regarding code maintainability]: #
 [- CSS custom properties must also be used for fixed pixel dimensions]: #
 [- Remember to load your JavaScript files either with `defer` or as modules]: #
+[  - Because of loading JavaScript in deferred mode, targeting the `DOMContentLoaded` event is unnecessary]: #
 
 [## In-class exercises]: #
 
