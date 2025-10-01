@@ -34,7 +34,7 @@ Work in groups of 4. Find websites that use the following colour palettes (at le
 
 Show your findings to the class.
 
-### First Mandatory Assignment]: #
+### First Mandatory Assignment
 - Next week I will give you the solutions to the *CSS Restaurant* and the *Music CDs* assignments. If you finish them by then, you will be able to compare your solutions to mine
 - Start working on the *API consumption* exercise. Take the following into account:
   - You need to sign up to [TMDB](https://www.themoviedb.org/signup) (The Movie DataBase) in order to get an API key
