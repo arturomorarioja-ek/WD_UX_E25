@@ -27,6 +27,7 @@
 [- Avoid absolute paths, as it limits the deployability of your project. Do never start a URL path with `/`]: #
 [- CSS custom properties (variables) must be used for all colours and fonts, and they must be used consistently: just one hardcoded colour can cause grave problems regarding code maintainability]: #
 [- CSS custom properties must also be used for fixed pixel dimensions]: #
+[- Remember to load your JavaScript files either with `defer` or as modules]: #
 
 [## In-class exercises]: #
 
