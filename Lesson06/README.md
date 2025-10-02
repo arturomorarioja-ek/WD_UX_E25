@@ -79,5 +79,5 @@ Practice responsiveness with CSS:
 - [Flexbox Zombies](https://flexboxzombies.com/)
 
 [### First Mandatory Assignment]: #
-
+[Next week I will give you the solutions to the API consumption assignment (the Movie DB). If you finish it by then, you will be able to compare your solutions to mine]: #
 [Start working on the Tristan Wede Lind responsive SPA application]: #
