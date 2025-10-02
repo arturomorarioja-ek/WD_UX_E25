@@ -36,14 +36,6 @@ Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initia
 
 [Proposed solution(https://github.com/arturomorarioja/kea_grid_practice)]: #
 
-[### White space]: #
-[Work in groups of 4. Assess how white space has been used in the following websites, explain which methods have been used to remove visual clutter, and propose actions to remove it in the most cluttered websites:]: #
-[- https://www.thomann.de/gb/index.html]: #
-[- https://www.zalando.dk/]: #
-[- https://www.momondo.dk/]: #
-
-[Show your findings to the class.]: #
-
 ## Homework
 Check out the following slide decks on Itslearning:
 
@@ -77,6 +69,14 @@ Practice responsiveness with CSS:
   - [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
   - [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack)
 - [Flexbox Zombies](https://flexboxzombies.com/)
+
+### White space
+Work in groups of 4. Assess how white space has been used in the following websites, explain which methods have been used to remove visual clutter, and propose actions to remove it in the most cluttered websites:
+- https://www.thomann.de/gb/index.html
+- https://www.zalando.dk/
+- https://www.momondo.dk/
+
+[Show your findings to the class.]: #
 
 [### First Mandatory Assignment]: #
 [Start working on the Tristan Wede Lind responsive SPA application]: #
