@@ -25,7 +25,7 @@ Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initia
 
 <img width="1024" height="599" alt="image" src="https://github.com/user-attachments/assets/a00e4ffe-bf34-461e-8062-4147948a35a0" />
 
-Proposed solution(https://github.com/arturomorarioja/kea_grid_practice)
+[Proposed solution](https://github.com/arturomorarioja/kea_grid_practice)
 
 ## Homework
 Check out the following slide decks on Itslearning:
