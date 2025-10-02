@@ -31,12 +31,12 @@ General feedback. Things to improve
 - Remember to load your JavaScript files either with `defer` or as modules
   - Because of loading JavaScript in deferred mode, targeting the `DOMContentLoaded` event is unnecessary
 
-[## In-class exercises]: #
+## In-class exercises
 
-[### CSS Grid]: #
-[Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initial using grid and flexbox so that Michel Foucault’s bio page looks like this:]: #
+### CSS Grid
+Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initial using grid and flexbox so that Michel Foucault’s bio page looks like this:
 
-[<img width="1024" height="599" alt="image" src="https://github.com/user-attachments/assets/a00e4ffe-bf34-461e-8062-4147948a35a0" />]: #
+<img width="1024" height="599" alt="image" src="https://github.com/user-attachments/assets/a00e4ffe-bf34-461e-8062-4147948a35a0" />
 
 [Proposed solution(https://github.com/arturomorarioja/kea_grid_practice)]: #
 
