@@ -2,22 +2,13 @@
 
 # Lesson 6 - 2 October
 
-[-> Show solutions CSS Restaurant + Music CDs]: #
-[  -> Feedback (see below)]: #
-
-[-> Colours]: #
-
-[-> White space]: #
-[  -> In-class exercise]: #
-
 [-> Further JS: JS frameworks]: #
 [-> Further JS: sessionStorage + localStorage]: #
 [-> In-class exercises: Stored music CDs]: #
 
 ## First Mandatory Assignment exercise solutions
 - [Restaurant](https://github.com/arturomorarioja/kea_css_restaurant_solution)
-  
-[- Music CDs(https://github.com/arturomorarioja/kea_js_music_cds_solution)]: #
+- [Music CDs](https://github.com/arturomorarioja/kea_js_music_cds_solution)
 
 General feedback. Things to improve
 - Code should be divided into folders. As projects tend to grow, file organisation can soon become unmanageable
@@ -34,13 +25,11 @@ Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initia
 
 <img width="1024" height="599" alt="image" src="https://github.com/user-attachments/assets/a00e4ffe-bf34-461e-8062-4147948a35a0" />
 
-[Proposed solution(https://github.com/arturomorarioja/kea_grid_practice)]: #
+Proposed solution(https://github.com/arturomorarioja/kea_grid_practice)
 
 ## Homework
 Check out the following slide decks on Itslearning:
-
-[- **Information Architecture: White Space**]: #
-
+- **Information Architecture: White Space**
 - **Responsive Web Design**, with attention to Grid
   - I recommend bookmarking CSS-tricks.com's [guide on Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - **JavaScript: Further Features**, specifically slide 8 (SPA - Single Page Application)
@@ -76,7 +65,7 @@ Work in groups of 4. Assess how white space has been used in the following websi
 - https://www.zalando.dk/
 - https://www.momondo.dk/
 
-[Show your findings to the class.]: #
+Show your findings to the class next week.
 
-[### First Mandatory Assignment]: #
-[Start working on the Tristan Wede Lind responsive SPA application]: #
+### First Mandatory Assignment
+Start working on the Tristan Wede Lind responsive SPA application
