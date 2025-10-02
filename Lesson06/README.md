@@ -5,11 +5,11 @@
 [-> Show solutions CSS Restaurant + Music CDs]: #
 [  -> Feedback (see below)]: #
 
+[-> Colours]: #
+
 [-> Responsiveness: Grid]: #
 [  -> In-class exercise: Foucault]: #
 [  -> Show responsive practice resources (froggy...)]: #
-
-[-> SPA Restaurant demo]: #
 
 [-> White space]: #
 [  -> In-class exercise]: #
@@ -18,17 +18,18 @@
 [-> Further JS: sessionStorage + localStorage]: #
 [-> In-class exercises: Stored music CDs]: #
 
-[## First Mandatory Assignment exercise solutions]: #
-[- Restaurant(https://github.com/arturomorarioja/kea_css_restaurant_solution)]: #
+## First Mandatory Assignment exercise solutions
+- [Restaurant](https://github.com/arturomorarioja/kea_css_restaurant_solution)
+  
 [- Music CDs(https://github.com/arturomorarioja/kea_js_music_cds_solution)]: #
 
-[General feedback. Things to improve]: #
-[- Code should be divided into folders. As projects tend to grow, file organisation can soon become unmanageable]: #
-[- Avoid absolute paths, as it limits the deployability of your project. Do never start a URL path with `/`]: #
-[- CSS custom properties (variables) must be used for all colours and fonts, and they must be used consistently: just one hardcoded colour can cause grave problems regarding code maintainability]: #
-[- CSS custom properties must also be used for fixed pixel dimensions]: #
-[- Remember to load your JavaScript files either with `defer` or as modules]: #
-[  - Because of loading JavaScript in deferred mode, targeting the `DOMContentLoaded` event is unnecessary]: #
+General feedback. Things to improve
+- Code should be divided into folders. As projects tend to grow, file organisation can soon become unmanageable
+- Avoid absolute paths, as it limits the deployability of your project. Do never start a URL path with `/`
+- CSS custom properties (variables) must be used for all colours and fonts, and they must be used consistently: just one hardcoded colour can cause grave problems regarding code maintainability
+- CSS custom properties must also be used for fixed pixel dimensions
+- Remember to load your JavaScript files either with `defer` or as modules
+  - Because of loading JavaScript in deferred mode, targeting the `DOMContentLoaded` event is unnecessary
 
 [## In-class exercises]: #
 
