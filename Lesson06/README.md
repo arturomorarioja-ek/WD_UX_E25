@@ -48,16 +48,19 @@ General feedback. Things to improve
 
 [Show your findings to the class.]: #
 
-[## Homework]: #
-[Check out the following slide decks on Itslearning]: #
+## Homework
+Check out the following slide decks on Itslearning:
+
 [- **Information Architecture: White Space**]: #
 [- **Responsive Web Design**, with attention to Grid]: #
 [  - I recommend bookmarking CSS-tricks.com's guide on Grid(https://css-tricks.com/snippets/css/complete-guide-grid/)]: #
-[- **JavaScript: Further Features**, specifically slide 8 (SPA - Single Page Application)]: #
-[Check out the following code samples]: #
+- **JavaScript: Further Features**, specifically slide 8 (SPA - Single Page Application)
+
+Check out the following code samples
+
 [- CSS Grid with template columns(https://codepen.io/arturomorarioja/pen/wvRmrjj)]: #
 [- CSS Grid with template areas(https://codepen.io/arturomorarioja/pen/LYXyVXJ)]: #
-[- SPA Restaurant(https://github.com/arturomorarioja/css_restaurant_spa)]: #
+- [SPA Restaurant](https://github.com/arturomorarioja/css_restaurant_spa)
 
 [Practice responsiveness with CSS:]: #
 [-> Copy-paste from F25 lesson 6]: #
