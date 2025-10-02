@@ -77,6 +77,7 @@ Practice responsiveness with CSS:
   - [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
   - [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack)
 - [Flexbox Zombies](https://flexboxzombies.com/)
+
 [### First Mandatory Assignment]: #
 
 [Start working on the Tristan Wede Lind responsive SPA application]: #
