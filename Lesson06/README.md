@@ -7,10 +7,6 @@
 
 [-> Colours]: #
 
-[-> Responsiveness: Grid]: #
-[  -> In-class exercise: Foucault]: #
-[  -> Show responsive practice resources (froggy...)]: #
-
 [-> White space]: #
 [  -> In-class exercise]: #
 
@@ -52,18 +48,35 @@ Complete the code in https://github.com/arturomorarioja/kea_grid_practice_initia
 Check out the following slide decks on Itslearning:
 
 [- **Information Architecture: White Space**]: #
-[- **Responsive Web Design**, with attention to Grid]: #
-[  - I recommend bookmarking CSS-tricks.com's guide on Grid(https://css-tricks.com/snippets/css/complete-guide-grid/)]: #
+
+- **Responsive Web Design**, with attention to Grid
+  - I recommend bookmarking CSS-tricks.com's [guide on Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - **JavaScript: Further Features**, specifically slide 8 (SPA - Single Page Application)
 
 Check out the following code samples
 
-[- CSS Grid with template columns(https://codepen.io/arturomorarioja/pen/wvRmrjj)]: #
-[- CSS Grid with template areas(https://codepen.io/arturomorarioja/pen/LYXyVXJ)]: #
+- CSS Grid with template columns(https://codepen.io/arturomorarioja/pen/wvRmrjj)
+- CSS Grid with template areas(https://codepen.io/arturomorarioja/pen/LYXyVXJ)
 - [SPA Restaurant](https://github.com/arturomorarioja/css_restaurant_spa)
 
-[Practice responsiveness with CSS:]: #
-[-> Copy-paste from F25 lesson 6]: #
-
+Practice responsiveness with CSS:
+- [CSS Diner](https://flukeout.github.io/). Practice selecting elements
+- [MDN Web Docs](https://developer.mozilla.org/en-US/). Test your skills:
+  - [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Position_skills)
+  - [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats_skills)
+  - [Responsive web design and media queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/rwd_skills):
+    - Without flex and grid (the cards may have different height)
+    - With flex and grid
+  - [Proposed solutions](https://codepen.io/collection/NqBvMy)
+  - [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills)
+  - [Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills)
+- [Codepip](https://codepip.com/):
+  - [Flexbox Froggy](https://flexboxfroggy.com/)
+  - [Grid Garden](https://cssgridgarden.com/)
+- [Coding Fantasy](https://codingfantasy.com/):
+  - [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
+  - [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack)
+- [Flexbox Zombies](https://flexboxzombies.com/)
 [### First Mandatory Assignment]: #
+
 [Start working on the Tristan Wede Lind responsive SPA application]: #
