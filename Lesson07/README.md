@@ -9,7 +9,9 @@
 [-> json-server. Also HTTP methods for POST, PUT, DELETE]: #
 [  -> Towns]: #
 [-> White Space exercise]: #
-[-> Food repo. Individual page]: #
+[-> Food repo]: #
+[ -> Style anchors and dialog close button]: #
+[ -> Individual page]: #
  
 [## Homework]: #
 [Check out the following slide decks on Itslearning:]: #
