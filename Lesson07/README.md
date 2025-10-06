@@ -2,6 +2,8 @@
 
 # Lesson 7 - 9 October
 
+[-> git clone https://github.com/arturomorarioja/web_e25_ux_food_repo_w41]: #
+
 [-> npm. Create project from scratch. Do npm i on an existing project. Explain .gitignore and API keys]: #
 [-> ESLint. Demo]: #
 [-> local and session storage]: #
@@ -13,6 +15,7 @@
 [ -> Style anchors and dialog close button]: #
 [ -> Meal card: use template and cloneNode]: #
 [ -> Iterate]: #
+[ -> Favicon]: #
 [ -> Individual page]: #
  
 [## Homework]: #
