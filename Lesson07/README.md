@@ -6,8 +6,7 @@
 [-> ESLint. Demo]: #
 [-> local and session storage]: #
 [  -> prescribe stored Music CDs]: #
-[-> HTTP methods]: #
-[-> json-server]: #
+[-> json-server. Also HTTP methods for POST, PUT, DELETE]: #
 [  -> Towns]: #
 [-> White Space exercise]: #
 [-> Food repo. Individual page]: #
