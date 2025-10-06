@@ -11,6 +11,8 @@
 [-> White Space exercise]: #
 [-> Food repo]: #
 [ -> Style anchors and dialog close button]: #
+[ -> Meal card: use template and cloneNode]: #
+[ -> Iterate]: #
 [ -> Individual page]: #
  
 [## Homework]: #
