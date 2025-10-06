@@ -16,7 +16,7 @@ Make sure to `git clone` it once and `git pull` the latest version every week.
 - [Lesson 4](https://github.com/arturomorarioja-kea/WD_UX_E25/blob/main/Lesson04/README.md) (18 September): CSS Flexbox. Navigation and Wayfinding
 - [Lesson 5](https://github.com/arturomorarioja-kea/WD_UX_E25/blob/main/Lesson05/README.md) (25 September): Colour palettes. Typography
 - [Lesson 6](https://github.com/arturomorarioja-kea/WD_UX_E25/blob/main/Lesson06/README.md) (2 October): CSS Grid. White space and cluttering avoidance
-- [Lesson 7](https://github.com/arturomorarioja-kea/WD_UX_E25/blob/main/Lesson07/README.md) (9 October): npm. ESLint. URLSearchParams()
+- [Lesson 7](https://github.com/arturomorarioja-kea/WD_UX_E25/blob/main/Lesson07/README.md) (9 October): npm. ESLint. Local storage
 - [Lesson 8](https://github.com/arturomorarioja-kea/WD_UX_E25/blob/main/Lesson08/README.md) (23 October): Performance and sustainability. Sitemaps
 - [Lesson 9](https://github.com/arturomorarioja-kea/WD_UX_E25/blob/main/Lesson09/README.md) (30 October): JS: Consumption of an authenticated API
 - [Lesson 10](https://github.com/arturomorarioja-kea/WD_UX_E25/edit/main/Lesson10/README.md) (6 November): Web Accessibility. Wireframes and Prototypes
