@@ -6,7 +6,8 @@
 [-> ESLint. Demo]: #
 [-> local and session storage]: #
 [  -> prescribe stored Music CDs]: #
-
+[-> White Space exercise]: #
+[-> Food repo. Individual page]: #
  
 [## Homework]: #
 [Check out the following slide decks on Itslearning:]: #
