@@ -2,7 +2,7 @@
 
 # Lesson 7 - 9 October
 
-[-> White Space exercise]: #
+[-> White Space exercise]: #ñ
 [-> Food repo]: #
 [ -> Style anchors and dialog close button]: #
 [ -> Meal card: use template and cloneNode]: #
@@ -19,7 +19,7 @@
 
 - Check out the following code samples:
   - [ESLint sample configuration](https://github.com/arturomorarioja/eslint_sample)
-  - [Towns](https://github.com/arturomorarioja/js_towns). Example of [json-server](https://www.npmjs.com/package/json-server)
+  - [Towns](https://github.com/arturomorarioja/js_towns). Example of [json-server](https://www.npmjs.com/package/json-server) and of POST, PUT and DELETE HTTP requests
 
 - Apply ESLint to your existing projects and to any new project from now on
 - Rework the [music CDs exercise](https://github.com/arturomorarioja/kea_js_music_cds_solution) but now storing the information in local storage.
