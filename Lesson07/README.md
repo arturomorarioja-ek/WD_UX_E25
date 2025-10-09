@@ -2,13 +2,7 @@
 
 # Lesson 7 - 9 October
 
-[-> White Space exercise]: #ñ
-[-> Food repo]: #
-[ -> Style anchors and dialog close button]: #
-[ -> Meal card: use template and cloneNode]: #
-[ -> Iterate]: #
-[ -> Favicon]: #
-[ -> Individual page]: #
+[ -> What if we get the same random recipe twice]: #
  
 ## Homework
 - Check out the following slide decks on Itslearning:
