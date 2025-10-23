@@ -27,8 +27,6 @@ Check out the following code samples:
 
 **Information Architecture**
 
-Work in groups of 5 or 6.
-
 Create a sitemap for a popular website of your choice (not one with too many information levels, though). Use the sitemap format that you think more appropriate:
-[- Work in groups of 5 or 6]: #
-[- Send me a pdf file with your sitemap on Teams, so that next week we can discuss your work]: #
+- Work in groups of 5 or 6
+- Send me a pdf file with your sitemap on Teams, so that next week we can discuss your work
