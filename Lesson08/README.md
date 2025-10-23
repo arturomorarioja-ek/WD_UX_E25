@@ -25,7 +25,10 @@ Check out the following code samples:
 - [JavaScript modules](https://github.com/arturomorarioja/js_modules)
 - [JavaScript lazy loading with `import()`](https://github.com/arturomorarioja/js_import)
 
-[**Information Architecture**]: #
-[Create a sitemap for a popular website of your choice (not one with too many information levels, though). Use the sitemap format that you think more appropriate:]: #
+**Information Architecture**
+
+Work in groups of 5 or 6.
+
+Create a sitemap for a popular website of your choice (not one with too many information levels, though). Use the sitemap format that you think more appropriate:
 [- Work in groups of 5 or 6]: #
 [- Send me a pdf file with your sitemap on Teams, so that next week we can discuss your work]: #
