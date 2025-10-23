@@ -8,12 +8,10 @@
 [-> Modules]: #
 [-> JavaDoc]: #
 
-[Exercise solution]: #
-[- Stored Music CDs(https://github.com/arturomorarioja/js_stored_music_cds_solution)]: #
+Exercise solution
+- [Stored Music CDs](https://github.com/arturomorarioja/js_stored_music_cds_solution)
 
 ### In-class exercise
-**Performance and Sustainability**
-
 Run performance tests on your own websites. Find performance errors and fix them.
 
 [### Homework]: #
