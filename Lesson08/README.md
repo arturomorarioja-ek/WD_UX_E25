@@ -13,6 +13,7 @@
 
 ### In-class exercise
 **Performance and Sustainability**
+
 Run performance tests on your own websites. Find performance errors and fix them.
 
 [### Homework]: #
