@@ -25,6 +25,8 @@ Check out the following code samples:
 - [JavaScript modules](https://github.com/arturomorarioja/js_modules)
 - [JavaScript lazy loading with `import()`](https://github.com/arturomorarioja/js_import)
 
+Next week I will give you the solutions to the TMDB API consumption assignment. If you finish it by then, you will be able to compare your solution to mine.
+
 **Information Architecture**
 
 Create a sitemap for a popular website of your choice (not one with too many information levels, though). Use the sitemap format that you think more appropriate:
