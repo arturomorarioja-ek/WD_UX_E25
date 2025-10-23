@@ -12,7 +12,7 @@ Exercise solution
 - [Stored Music CDs](https://github.com/arturomorarioja/js_stored_music_cds_solution)
 
 ### In-class exercise
-Run performance tests on your own websites. Find performance errors and fix them.
+Run performance tests on your own websites and on public websites. Find performance errors and fix them.
 
 ### Homework
 Check out the following slide decks on Itslearning:
