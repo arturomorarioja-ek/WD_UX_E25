@@ -2,12 +2,6 @@
 
 # Lesson 8 - 23 October
 
-[-> Maybe add modules and the modules sample]: #
-[-> debugger]: #
-[-> cloud - my slides]: #
-[-> Modules]: #
-[-> JavaDoc]: #
-
 Exercise solution
 - [Stored Music CDs](https://github.com/arturomorarioja/js_stored_music_cds_solution)
 
