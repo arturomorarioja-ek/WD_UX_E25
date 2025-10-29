@@ -3,6 +3,7 @@
 # Lesson 9 - 30 October
 
 [-> tmdb git pull/clone + make public]: #
+[-> git clone https://github.com/arturomorarioja/web_e25_ux_food_repo_w44]: #
 [-> Food repo]: #
 [  -> center recipe article h3]: #
 [  -> create recipe.htm]: #
