@@ -11,7 +11,7 @@
 [-> sitemaps]: #
 
 [## First Mandatory Assignment exercise solution]: #
-[- API consumption()]: #
+[- API consumption(https://github.com/arturomorarioja/js_tmdb)]: #
 
 [General feedback. Things to improve:]: #
 [- Do not repeat code. It is bad for performance (more lines to load) and for maintainability (a change affects several files instead of just one). This assignment must be done with only one HTML file and only one JavaScript function]: #
