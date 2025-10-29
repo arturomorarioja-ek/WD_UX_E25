@@ -3,6 +3,10 @@
 # Lesson 9 - 30 October
 
 [-> tmdb git pull/clone + make public]: #
+[-> Food repo]: #
+[  -> center recipe article h3]: #
+[  -> create recipe.htm]: #
+[  -> link it from the recipe card]: #
 
 [## First Mandatory Assignment exercise solution]: #
 [- API consumption()]: #
