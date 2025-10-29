@@ -8,6 +8,8 @@
 [  -> create recipe.htm]: #
 [  -> link it from the recipe card]: #
 
+[-> sitemaps]: #
+
 [## First Mandatory Assignment exercise solution]: #
 [- API consumption()]: #
 
