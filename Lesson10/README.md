@@ -3,6 +3,7 @@
 # Lesson 10 - 6 November
 
 [-> git pull tristan]: #
+[-> git pull accessibility]: #
 
 [## Exercise solution]: #
 [- Tristan Wede Lind(https://github.com/arturomorarioja/css_tristan_solution/)]: #
