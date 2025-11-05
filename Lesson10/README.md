@@ -2,6 +2,8 @@
 
 # Lesson 10 - 6 November
 
+[-> git pull tristan]: #
+
 [## Exercise solution]: #
 [- Tristan Wede Lind(https://github.com/arturomorarioja/css_tristan_solution/)]: #
 
