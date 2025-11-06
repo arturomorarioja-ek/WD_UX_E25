@@ -20,5 +20,5 @@ Check out the following slide decks on Itslearning:
 Check out the following code sample:
 - [Accessibility for Web Design](https://github.com/arturomorarioja/accessibility_web_design)
 
-[## Homework]: #
-[Start working on the **Second Mandatory Assignment**. Register your group members and chosen topic in the corresponding Excel sheet on Teams.]: #
+## Homework
+Start working on the **Second Mandatory Assignment**. Register your group members and chosen topic in the corresponding Excel sheet on Teams.
