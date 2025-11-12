@@ -13,4 +13,6 @@
 [    but...]: #
 [https://www.linkedin.com/posts/activity-6863393904708878336-MXP6/?utm_source=share&utm_medium=member_desktop]: #
 
+[Amelia's video]: #
+
 [Make sure that you incorporate to your **Second Mandatory Assignment** the requirements regarding these two topics.]: #
